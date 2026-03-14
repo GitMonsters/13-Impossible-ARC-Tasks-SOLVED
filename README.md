@@ -1,5 +1,19 @@
 # 🔓 13 "Impossible" ARC-AGI-2 Tasks — All Solved
 
+<p align="center">
+  <img src="banner.svg" alt="13 Impossible Tasks — All Solved" width="840"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TranscendPlexity-13%2F13%20✓-brightgreen?style=for-the-badge" alt="TranscendPlexity: 13/13"/>
+  <img src="https://img.shields.io/badge/Everyone%20Else-0%2F13%20✗-red?style=for-the-badge" alt="Everyone Else: 0/13"/>
+  <br/>
+  <a href="#verify-it-yourself"><img src="https://img.shields.io/badge/Verified-13%20solvers-success?style=flat-square&logo=python&logoColor=white" alt="13 verified solvers"/></a>
+  <a href="https://arc.markbarney.net/puzzles/database"><img src="https://img.shields.io/badge/Source-ARC%20Explainer-blue?style=flat-square" alt="ARC Explainer"/></a>
+  <a href="https://github.com/GitMonsters/SOLVED-540-of-540"><img src="https://img.shields.io/badge/Full%20Catalog-540%2F540-blueviolet?style=flat-square" alt="Full Catalog"/></a>
+  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="MIT License"/></a>
+</p>
+
 These 13 ARC-AGI-2 evaluation tasks have **never been solved by any AI system** — not GPT-4, not Claude, not Gemini, not NVARC, not MindsAI, not any Kaggle submission. They have a **0% AI solve rate** across all publicly tracked attempts.
 
 **TranscendPlexity solved all 13.**
